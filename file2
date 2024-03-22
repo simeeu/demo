@@ -1,4 +1,2 @@
-conflict edit;
-on
-br1 branch
-add ------=--
+conflict edit on br1 branch
+add ----++--=--
